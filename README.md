@@ -12,3 +12,5 @@ Se usar:
 - C
 - C++
 - Herramientas como Docker, Render, Postman, Github, etc.
+- Asistencia de IA como Copilot, Gemini para aprender nuevos lenguajes/frameworks
+- SQL
