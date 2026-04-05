@@ -21,6 +21,7 @@
 <h3>Lenguajes de Marcado</h3>
 <ul>
   <li>HTML</li>
+  <li>XML</li>
 </ul>
 
 <h3>Lenguaje de Hojas de Estilo en Cascada</h3>
