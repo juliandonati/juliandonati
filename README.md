@@ -1,60 +1,45 @@
-<h1 align="center">¡Hola, soy Julián Donati! 👓</h1>
-<p align="center">Actualmente me encuentro desarrollandome en el mundo del Desarrollo Web, ¡aunque me apasiona aprender todo tipo de cosas!</p>
+# ¡Hola, soy Julián Donati! 👓
 
-</br></br></br>
+📍 **Mar del Plata, Argentina** | 🎓 **Estudiante de Ingeniería en Sistemas (CAECE)**
 
-<h2 align="center">MI SKILLSET ☕</h2>
+Actualmente me encuentro desarrollándome en el mundo del Desarrollo Web. Tengo un fuerte enfoque en la construcción de APIs y lógica de negocio, pero me apasiona aprender todo tipo de tecnologías para crear soluciones integrales.
 
-<h3>Lenguajes de Programación</h3>
-<ul>
-  <li>Java</li>
-  <li>JavaScript</li>
-  <li>C</li>
-  <li>C++</li>
-</ul>
+### 🚀 Sobre mí
 
-<h3>Frameworks</h3>
-<ul>
-  <li>Spring Boot (<strong>Backend</strong>)</li>
-</ul>
+- 🔭 **Actualmente trabajando en:** Una plataforma web multipropósito orientada a portfolios.
+- 🌱 **Actualmente aprendiendo:** Dando el salto hacia el Frontend con **React y TypeScript**.
+- ⚙️ **Mi enfoque técnico:** Backend robusto con **Java, Spring Boot e Hibernate**.
 
-<h3>Lenguajes de Marcado</h3>
-<ul>
-  <li>HTML</li>
-  <li>XML</li>
-</ul>
+---
 
-<h3>Lenguaje de Hojas de Estilo en Cascada</h3>
-<ul>
-  <li>CSS</li>
-</ul>
+### 💻 Mi Skillset
 
+#### Lenguajes de Programación
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<h3>Herramientas de Gestión de Código Fuente</h3>
-<ul>
-  <li>Github</li>
-</ul>
+#### Backend & Base de Datos
+![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<h3>Herramientas de DevOps</h3>
-<ul>
-  <li>Docker</li>
-  <li>Render</li>
-</ul>
+#### Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-<h3>Herramientas de testeo de APIs</h3>
-<ul>
-  <li>Postman</li>
-</ul>
+#### Herramientas, Testing y DevOps
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<h3>Herramientas de IA </h3>
-<ul>
-  <li>Copilot</li>
-  <li>Gemini</li>
-  <li>ChatGPT</li>
-  <li>Claude</li>
-</ul>
-
-<h3>Lenguajes de Consulta</h3>
-<ul>
-  <li>SQL</li>
-</ul>
+#### Herramientas de IA
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+![GitHub Copilot](https://img.shields.io/badge/github%20copilot-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
