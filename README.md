@@ -6,7 +6,7 @@ Actualmente me encuentro desarrollándome en el mundo del Desarrollo Web. Tengo 
 
 ### 🚀 Sobre mí
 
-- 🔭 **Actualmente trabajando en:** Una plataforma web multipropósito orientada a portfolios.
+- 🔭 **Actualmente trabajando en:** [Una plataforma web multipropósito orientada a portfolios](https://creaportafolio.vercel.app) 
 - 🌱 **Actualmente aprendiendo:** Dando el salto hacia el Frontend con **React y TypeScript**.
 - ⚙️ **Mi enfoque técnico:** Backend robusto con **Java, Spring Boot e Hibernate**.
 
